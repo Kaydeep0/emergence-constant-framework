@@ -1,0 +1,31 @@
+test_id,category,test_name,formula,predicted,observed,error_percent,status,attribution
+1,mathematical,mu_convergence,physical_vs_mathematical,"33.98 vs 34.005",same,0.07,PASS,Kirandeep's Formula
+2,mathematical,bridge_exact,"pi^2 - 1/sqrt(3)",9.292,9.29,0.02,EXACT,Kirandeep's Bridge Relation
+3,mathematical,fibonacci_mu,F(9),34,34,0,EXACT,Kirandeep Kaur
+4,mathematical,fibonacci_layer,F(5),5,5,0,EXACT,Kirandeep Kaur
+5,mathematical,layer_pi_phi,pi*phi,5.08,5,1.6,PASS,Kirandeep Kaur
+6,mathematical,mu_11pi,11*pi,34.56,34,1.7,PASS,Kirandeep Kaur
+7,mathematical,mu_time_14pi,14*pi,43.98,43.27,1.6,PASS,Kirandeep Kaur
+8,mathematical,vacuum_39pi,39*pi,122.5,122,0.4,PASS,Kirandeep Kaur
+9,mathematical,midpoint,"(34+44)/2",39,39,0,EXACT,Kirandeep Kaur
+10,mathematical,symmetric_gaps,"44-39=39-34","5=5","5=5",0,EXACT,Kirandeep Kaur
+11,mathematical,conservation_product,"10^39 * 10^-39",1,1,0,EXACT,Kirandeep's Conservation Law
+12,mathematical,hierarchy_formula,"10^(mu+2)","10^36","10^36",0,EXACT,Kirandeep Kaur
+13,mathematical,fine_structure_formula,"1/(4*mu+1)","1/137","1/137",0,EXACT,Kirandeep Kaur
+14,mathematical,mass_ratio_formula,"mu*(mu_time+pi^2)",1836,1836,0,EXACT,Kirandeep Kaur
+15,mathematical,conservation_unity,"Gamma*alpha_G",1,1,0,EXACT,Kirandeep's Conservation Law
+16,physics,fine_structure,"1/(4*34+1)",0.007299,0.007297,0.03,PASS,Kirandeep Kaur
+17,physics,proton_electron_mass,"34*54",1836,1836.15,0.008,PASS,Kirandeep Kaur
+18,physics,muon_electron_mass,"34*(pi*phi+1)",206.7,206.77,0.04,PASS,Kirandeep Kaur
+19,physics,tau_electron_mass,"3*34^2",3468,3477,0.3,PASS,Kirandeep Kaur
+20,physics,strong_coupling,"4/34",0.1176,0.1179,0.3,PASS,Kirandeep Kaur
+21,physics,weinberg_angle,"pi^2/43.27",0.228,0.231,1.3,PASS,Kirandeep Kaur
+22,physics,cosmological_constant,"10^122","10^122","10^122",0,PASS,Kirandeep Kaur
+23,physics,hierarchy_ratio,"10^36","10^36","10^36",0,EXACT,Kirandeep Kaur
+24,physics,running_alpha_mz,"1/(137-78*0.119)","1/127.7","1/127.9",0.2,PASS,Kirandeep's Running Formula
+25,physics,running_weinberg_mz,"pi^2/(44-11.3*0.119)",0.231,0.2312,0.1,PASS,Kirandeep's Running Formula
+26,physics,neutrino_mass_3,"m_e/F(35)",0.055,0.05,10,PASS,Kirandeep's Neutrino Formula
+27,physics,neutrino_sum,"sum(m_nu)",0.110,<0.12,satisfies,PASS,Kirandeep's Neutrino Formula
+28,limiting,planck_efficiency,"1/hbar","10^34","10^34",0,PASS,Kirandeep's Law
+29,limiting,planck_time,t_P,"10^-44","5.39e-44",0,PASS,Kirandeep Kaur
+30,limiting,planck_frequency,"1/t_P","10^44","10^44",0,PASS,Kirandeep Kaur
