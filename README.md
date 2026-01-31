@@ -139,7 +139,8 @@ You are free to share and adapt this work, provided you give appropriate credit 
 
 **Kirandeep Kaur**  
 Independent Researcher  
-Email: [your-email@domain.com]
+Email: kiran@oxfordprioritymortgage.com
+Personal: ksekhon9851@gmail.com
 
 ---
 
