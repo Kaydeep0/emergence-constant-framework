@@ -122,7 +122,9 @@ Expected output: All 75 tests pass with verification of every prediction.
 
 ## Links
 
--  **Paper (Zenodo):** https://doi.org/10.5281/zenodo.18444653
+- **Paper (Zenodo):** [10.5281/zenodo.18444653](https://doi.org/10.5281/zenodo.18444653)
+- **GitHub Repository:** [https://github.com/Kaydeep0/emergence-constant-framework](https://github.com/Kaydeep0/emergence-constant-framework)
+- **ORCID:** [0009-0007-6563-234X](https://orcid.org/0009-0007-6563-234X)
 - **Paper (arXiv):** [arXiv ID to be added after submission]
 
 ---
@@ -138,9 +140,11 @@ You are free to share and adapt this work, provided you give appropriate credit 
 ## Contact
 
 **Kirandeep Kaur**  
-Independent Researcher  
-Email: kiran@oxfordprioritymortgage.com
-Personal: ksekhon9851@gmail.com
+Independent Researcher
+Kiran@oxfordprioritymortgage.com
+ksekhon9851@gmail.com
+ORCID: [0009-0007-6563-234X](https://orcid.org/0009-0007-6563-234X)  
+GitHub: [@Kaydeep0](https://github.com/Kaydeep0/emergence-constant-framework)
 
 ---
 
