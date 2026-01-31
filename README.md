@@ -112,7 +112,7 @@ Expected output: All 75 tests pass with verification of every prediction.
            Through Information-Action Efficiency},
   year = {2026},
   month = {January},
-  doi = {10.5281/zenodo.XXXXXXXX}
+  doi = {10.5281/zenodo.18444653}
 }
 ```
 
@@ -122,7 +122,7 @@ Expected output: All 75 tests pass with verification of every prediction.
 
 ## Links
 
-- **Paper (Zenodo):** [DOI to be added after upload]
+-  **Paper (Zenodo):** https://doi.org/10.5281/zenodo.18444653
 - **Paper (arXiv):** [arXiv ID to be added after submission]
 
 ---
